@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.8.0
+
+* another
+
 ### 1.7.0
 
 * one more
@@ -41,3 +45,4 @@ another
 blah
 bump
 one more
+another
