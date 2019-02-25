@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.6.0
+
+* bump
+
 ### 1.5.0
 
 * boom
@@ -31,3 +35,4 @@ blee
 bump
 another
 blah
+bump
