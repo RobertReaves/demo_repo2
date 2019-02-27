@@ -1,6 +1,6 @@
 {
   "name": "demo_repo2",
-  "version": "1.19.0",
+  "version": "1.20.0-l10n-feb-27.0",
   "description": "demo repo",
   "main": "index.js",
   "scripts": {
