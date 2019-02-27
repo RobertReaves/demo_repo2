@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.20.0
+
+* spinner
+
 ### 1.19.0
 
 * bump
@@ -101,3 +105,4 @@ tires
 bla
 20
 bump
+spinner
