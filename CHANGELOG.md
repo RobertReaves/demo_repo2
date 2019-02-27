@@ -101,3 +101,4 @@ tires
 bla
 20
 bump
+spinner
