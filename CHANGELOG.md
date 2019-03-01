@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.22.0
+
+* cat
+
 ### 1.21.0
 
 * bird
@@ -111,3 +115,4 @@ bla
 bump
 spinner
 bird
+cat
